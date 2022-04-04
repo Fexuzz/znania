@@ -1,0 +1,144 @@
+body{
+
+    color: black;
+
+    font-size: 17px;
+    font-weight: normal;
+    font-family:'Gill Sans', 'Gill Sans MT', 
+    Calibri, 'Trebuchet MS', sans-serif, 
+    Geneva, Verdana, sans-serif;
+    font: normal 16px
+    }
+
+
+    .shu{
+
+        width: 350px;
+        border-radius: 55px;
+        box-shadow: 6px 6px 14px rgba(70, 10, 78, 0.74);
+    }
+    
+
+    a{
+        color: rgb(0, 0, 0);
+        text-decoration: none;
+    }
+    
+    a:hover{
+        text-decoration: underline;
+
+    }
+
+    a:active{
+        color: rgb(97, 15, 151);
+    }
+
+    
+    
+    
+    
+    
+       /* background: rgba(139, 42, 135, 0.575);
+        padding: 15px 25px;
+        border: solid 10px rgb(129, 24, 124);
+        margin: auto;
+        border-bottom-left-radius: ;
+        border-top-right-radius: ;
+        border-right-color: ;
+        padding-left: 0%;
+        padding-top: ;
+        padding-bottom: ;
+        padding-right: ;
+        просто чтоб знать что это есть и не только падингом но и с margin */
+
+    
+
+    .cod{
+       max-width: 750px;
+       margin: auto;
+       margin-bottom: 250px;
+
+
+    }
+    
+
+    .table{
+        width: 10px;
+    }
+    
+
+    .mail{
+
+        margin: 10px;
+
+    }
+
+
+    .bg-green{
+        background: rgba(37, 212, 21, 0.548);
+
+    }
+
+    .bg-blue{
+        background: rgba(37, 2, 238, 0.452);
+
+    }
+
+    .bg-red{
+        background: rgba(218, 7, 7, 0.63);
+
+    }
+
+    .bg-hh{
+        background: rgba(153, 16, 172, 0.589);
+
+    }
+
+    .hack{
+        padding: 0 20px;
+    }
+    
+    .haka{
+        padding: 0 20px;
+    }
+    .rubik{
+         padding: 15px 20px;
+         margin-bottom: 20px;
+         border-radius: 20px;
+        
+     }
+     .table{ 
+         width: 100%;
+         margin-bottom: 10px;
+         background: rgba(101, 78, 204, 0.425);
+        border-radius: 15px;
+     }
+
+     .flag{
+         position: relative;
+         width: 550px;
+         height: 250px;
+         background: rgb(255, 255, 255);
+         border: 8px solid black;
+
+
+     }
+     .circle{
+         position: absolute;
+         width: 150px;
+         height: 150px;
+         background: red;
+         right: 10cm;
+         left: 190px;
+         bottom: 50px;
+         border-radius: 50%;
+     }
+     
+     .jaja{
+        border-width: thick;
+     }
+
+     .list-group-item{
+        border-width: 0 1px 1px 0;
+     }
+
